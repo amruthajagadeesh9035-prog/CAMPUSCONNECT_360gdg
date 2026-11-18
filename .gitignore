@@ -1,0 +1,7 @@
+
+__pycache__/
+*.pyc
+campusconnect.db
+.env
+venv/
+.venv/
